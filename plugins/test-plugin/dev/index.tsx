@@ -7,6 +7,6 @@ createDevApp()
   .addPage({
     element: <TestPluginPage />,
     title: 'Root Page',
-    path: '/test-plugin'
+    path: '/test-pluginv2'
   })
   .render();

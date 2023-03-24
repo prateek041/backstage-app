@@ -3,7 +3,7 @@ import { createPlugin, createRoutableExtension } from '@backstage/core-plugin-ap
 import { rootRouteRef } from './routes';
 
 export const testPluginPlugin = createPlugin({
-  id: 'test-plugin',
+  id: 'test-pluginv2',
   routes: {
     root: rootRouteRef,
   },
